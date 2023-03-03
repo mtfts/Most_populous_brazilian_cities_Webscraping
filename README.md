@@ -1,9 +1,9 @@
 # Web scraping with Pandas
 
-#### Project Overview:
+### Project Overview:
 In this project, we will be scraping a table from a website using Python and the pandas library. The website we will be scraping is a Wikipedia page that lists the most populated cities in Brazil. We will extract the data using the pandas library and then save it to a CSV file.
 
-Step 1: Import the Required Libraries
+#### Step 1: Import the Required Libraries
 First, we need to import the pandas library. To do this, we use the following code:
 
 ![image](https://user-images.githubusercontent.com/86577716/222773863-3ee9cc9d-3c25-430b-ac00-5261f873b646.png)
