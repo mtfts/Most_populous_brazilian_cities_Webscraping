@@ -1,4 +1,4 @@
-# Webscraping with Pandas
+# Webs craping with Pandas
 
 #### Project Overview:
 In this project, we will be scraping a table from a website using Python and the pandas library. The website we will be scraping is a Wikipedia page that lists the most populated cities in Brazil. We will extract the data using the pandas library and then save it to a CSV file.
